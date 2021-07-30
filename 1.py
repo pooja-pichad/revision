@@ -1,0 +1,8 @@
+# 88)Write the output of the given Python code :
+a = 20
+if a >= 22:
+    print("if")
+elif a >= 21:
+     print("elif")
+else:
+    print("else")
